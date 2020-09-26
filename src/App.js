@@ -5,7 +5,6 @@ import Players from './components/Players';
 import SelectPlayers from './components/SelectPlayers'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './style.css';
-import './soccer-field.svg';
 
 
 const App = () => (

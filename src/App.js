@@ -1,26 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Provider } from 'react-redux';
+import store from './store';
+import Players from './components/Players';
+import SelectPlayers from './components/SelectPlayers'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './style.css';
+import './soccer-field.svg';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+
+const App = () => (
+<Provider store={store}>
+    <main className="container">
+      <h1> Football App </h1>
+      <Players />
+      <SelectPlayers/>
+    </main>
+</Provider>
+)
 
 export default App;

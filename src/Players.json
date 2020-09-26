@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Antonio Garcia",
+      "photo": "https://www.thispersondoesnotexist.com/image"
+    },
+    {
+      "id": 2,
+      "name": "Francisco Lopez",
+      "photo": "https://www.thispersondoesnotexist.com/image"
+    },
+    {
+      "id": 3,
+      "name": "José Martinez",
+      "photo": "https://www.thispersondoesnotexist.com/image"
+    },
+    {
+      "id": 4,
+      "name": "Juan Sanchez",
+      "photo": "https://www.thispersondoesnotexist.com/image"
+    },
+    {
+      "id": 5,
+      "name": "Manuel González",
+      "photo": "https://www.thispersondoesnotexist.com/image"
+    },
+    {
+      "id": 6,
+      "name": "Pedro Goméz",
+      "photo": "https://www.thispersondoesnotexist.com/image"
+    },
+    {
+      "id": 7,
+      "name": "María Pilar",
+      "photo": "https://www.thispersondoesnotexist.com/image"
+    },
+    {
+      "id": 8,
+      "name": "Dolores Jimenez",
+      "photo": "https://www.thispersondoesnotexist.com/image"
+    },
+    {
+      "id": 9,
+      "name": "Antonia Rojas",
+      "photo": "https://www.thispersondoesnotexist.com/image"
+    },
+    {
+      "id": 10,
+      "name": "Ana Nava",
+      "photo": "https://www.thispersondoesnotexist.com/image"
+    },
+    {
+      "id": 11,
+      "name": "Josefa Lozada",
+      "photo": "https://www.thispersondoesnotexist.com/image"
+    },
+    {
+      "id": 12,
+      "name": "Angela Nuñez",
+      "photo": "https://www.thispersondoesnotexist.com/image"
+    }
+]
